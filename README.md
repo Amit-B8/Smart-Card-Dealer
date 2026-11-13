@@ -10,6 +10,10 @@ The system combines embedded hardware, motorized card
 distribution, and a web-based application for managing
 card games.
 
+## Documentation
+
+- [Project Plan](docs/PROJECT_PLAN.md) — Project scope, requirements, architecture, milestones, and development goals.
+
 ## Planned Features
 
 - Automated card dispensing
